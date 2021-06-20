@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Login Page
+
+## Consists Of :-
+`Username` (Minimum 8 characters long)  
+`Email` (abc@xyz.com)  
+`Password` (Minimum 8 characters long)  
+`Confirm Password` (matches Password)  
+`Congratulations page` on successfully registering  
+
+## Setting Up
+
+### We’ll start by creating an empty project and installing necessary dependencies: 
+
+npx create-react-app Forms  
+cd Forms  
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
